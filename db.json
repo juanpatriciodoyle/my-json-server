@@ -1,5 +1,5 @@
 {
- "posts": [
+ "permissions": [
     { "userId": 1, "albumId": 1 }
   ]
 }
