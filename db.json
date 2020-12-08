@@ -1,5 +1,10 @@
 {
  "permissions": [
-    { "userId": 1, "albumId": 1 }
+    { 
+     "id": 1,
+     "userId": 1,
+     "write": [1],
+     "read": [1,2]
+    }
   ]
 }
