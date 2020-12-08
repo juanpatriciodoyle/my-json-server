@@ -1,13 +1,11 @@
 {
  "permissions": [
     { 
-     "id": 1,
      "userId": 1,
      "read": [1,2],
      "write": [1]
     },
      { 
-     "id": 2,
      "userId": 2,
      "read": [2,3],
      "write": [3]
