@@ -6,11 +6,11 @@
      "read": [1,2],
      "write": [1]
     },
-      { 
+     { 
      "id": 2,
-     "userId": 3,
+     "userId": 2,
      "read": [2,3],
-     "write": [2]
+     "write": [3]
     }
   ]
 }
